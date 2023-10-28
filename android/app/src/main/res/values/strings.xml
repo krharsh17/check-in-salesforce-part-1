@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">dev.draft.checkin.login</string>
+	<string name="app_name">CheckIn</string>
+	<string name="app_package">dev.draft.checkin</string>
+</resources>
